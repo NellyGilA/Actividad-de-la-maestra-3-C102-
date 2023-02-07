@@ -1,2 +1,3 @@
-# Actividad-de-la-maestra-3-C102-
- Actividad-de-la-maestra-3-C102- SEPARACIÓN AUTOMATIZADA DE ARCHIVOS  (os y shutil)
+# C102_Código de referencia de la maestra
+
+Código Python para mover archivos tipo imagen de la carpeta Descargas a una nueva carpeta.
